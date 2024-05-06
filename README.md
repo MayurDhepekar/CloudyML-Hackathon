@@ -9,9 +9,13 @@ Our journey began with thorough data cleaning procedures to address any missing 
 
 # Key Findings
 Demographic Influences: We observed that age significantly impacts income levels, with varying earnings observed across different life stages.
+
 Education's Impact: Higher levels of educational attainment were associated with higher income brackets, highlighting the importance of education in socio-economic mobility.
+
 Marital Status Insights: Income distribution varied across different marital statuses, indicating potential differences in household incomes or economic stability.
+
 Gender Disparities: Gender-based disparities were evident in income distributions, suggesting the presence of wage gaps within the dataset.
+
 Occupational and Industry Dynamics: Economic sectors and occupations exhibited diverse income distributions, underscoring the importance of industry-specific factors in determining income levels.
 
 # Conclusion
